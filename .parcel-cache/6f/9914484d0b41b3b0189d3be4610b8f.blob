@@ -107,9 +107,8 @@ img {
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Mak';
   font-size: 24px;
-  font-weight: bolder;
   line-height: 100px;
   text-transform: uppercase;
   color: #eb22a5;
@@ -154,4 +153,4 @@ img {
   }
 }
 
-/*# sourceMappingURL=index.f556d9ac.css.map */
+/*# sourceMappingURL=index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map */

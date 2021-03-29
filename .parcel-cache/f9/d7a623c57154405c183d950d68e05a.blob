@@ -109,7 +109,6 @@ img {
   transform: translateX(-50%);
   font-family: 'Nunito Sans', sans-serif;
   font-size: 24px;
-  font-weight: bolder;
   line-height: 100px;
   text-transform: uppercase;
   color: #eb22a5;
@@ -153,5 +152,3 @@ img {
     display: none;
   }
 }
-
-/*# sourceMappingURL=index.f556d9ac.css.map */
